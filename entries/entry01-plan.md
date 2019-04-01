@@ -30,7 +30,8 @@ alt="IMAGE ALT TEXT HERE" width="350" height="250" border="10" /></a>
 1. What I learned this past week wasn't enough, so I hope to discover more of EarSketch to decide what to do for independent study.
 I would like to be patient to know what to do.
 2. I need to study more of Python and Java in EarSketch...I forgot what I learned from Freshman year.
-3. From Mr.Mueller: Learn and Build!!! <br>
+3. I need to make this entry longer...
+4. From Mr.Mueller: Learn and Build!!! <br>
 
 **I will update later on...** <br>
 [Next]()<br>
