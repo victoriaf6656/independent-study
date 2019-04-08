@@ -37,7 +37,7 @@ I would like to be patient to know what to do.
 4. From Mr.Mueller: Learn and Build!!! 
 
 **I will update later on...** <br>
-[Next](entry02.md)<br>
+[Next](../entry02.md)<br>
 [Back to Table of Contents](https://github.com/victoriaf6656/independent-study)
 
 
