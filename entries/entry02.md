@@ -90,7 +90,7 @@ finish()
 ```
 + **Reverb**- Creates delaying ambiance. Controls the decay time and amount of effect presented. 
 ### Takeaways
-1. There are effects added to the audio clips to make it better.
+1. Learn what you need to know.
 
 
 [Previous](entry01-plan.md) | [Next](entry03.md) <br>
