@@ -61,7 +61,7 @@ change over time.
     + Effect End Location- The measure at which the ending value is set. 
 + **Volume**- Related to loudness, in which sounds are ordered on a scale from quiet to loud. 
 + **Filter Effect**- Removes certain frequency components of a sound.
-```
+```python
 #Setup
 from earsketch import *
 init()

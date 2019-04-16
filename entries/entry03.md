@@ -24,7 +24,7 @@ One common form is the 'A-B-A' form.
     + It has two parameters, which takes in two arguments: ```startMeasure``` and ```endMeasure``` <br>
     
 Example of code below: <br>
-```
+```python
 def myFunction(strtMeasure, endMeasure):
         fitMedia(ELECTRO_DRUM_MAIN_BEAT_003, 1, startMeasure, endMeasure)
         fitMedia(ELECTRO_ANALOGUE_PHASERBASS_003, 2, startMeasure, endMeasure)
@@ -44,7 +44,7 @@ Takes in four arguments:
 <br>
  
 Example: <br>
-```
+```python
 from earsketch import *
 init()
 setTempo(120)
