@@ -26,6 +26,7 @@ Click on the tab and follow the directions.
         + Example: ```fitMedia(VICTORIAF6656_SACK_CHASER_MP3,2,1,20)```
 + **Using Freesound**
     + As you click on the tab labled **Freesound**, you can search for a sound query in the text search box.
+        + Example: ![Freesound Search Query](search_sound_query.png)
 
 #### Takeaways
 1. Take in as many resources as you can! (They are Useful....)
