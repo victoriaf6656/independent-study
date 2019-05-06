@@ -6,7 +6,7 @@ or audio clips to connect with each other. To make it resonate, I decided to mak
 The list of sounds in EarSketch is from Freesound.org. With Freesound.org integration, EarSketch users
 can import sounds from Freesound.org into their EarSketch DAW, without having much trouble.
 
-![Image of EarSketch](freesound.org.png)
+![Image of EarSketch](images/freesound.org.png)
 
 To get access to the sounds in Freesound.org and importing them to EarSketch, you have to register for a
 Freesound account. You can then download the song and import them into your EarSketch DAW.
@@ -26,8 +26,7 @@ Click on the tab and follow the directions.
         + Example: ```fitMedia(VICTORIAF6656_SACK_CHASER_MP3,2,1,20)```
 + **Using Freesound**
     + As you click on the tab labled **Freesound**, you can search for a sound query in the text search box.
-        + Example: ![Freesound Search Query](search_sound_query.png)
-
+        + Example: ![Freesound Search Query](images/search_sound_query.png)
 #### Takeaways
 1. Take in as many resources as you can! (They are Useful....)
 
