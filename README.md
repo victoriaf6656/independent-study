@@ -5,7 +5,7 @@
 * [Entry Three: Advanced to the Intermediate!](entries/entry03.md)
 * [Entry Four: Four Weeks of Learning](entries/entry04.md)
 * [Entry Five: Usage of EarSketch's Resources](entries/entry05.md)
-* Entry Six:
-* Entry Seven:
+* [Entry Six: Useless Information?](entries/entry06.md)
+* [Entry Seven: Getting Ready for the MVP](entries/entry07.md)
 * Entry Eight:
 * Entry Nine:

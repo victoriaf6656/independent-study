@@ -27,6 +27,7 @@ Click on the tab and follow the directions.
 + **Using Freesound**
     + As you click on the tab labled **Freesound**, you can search for a sound query in the text search box.
         + Example: ![Freesound Search Query](images/search_sound_query.png)
+
 #### Takeaways
 1. Take in as many resources as you can! (They are Useful....)
 
