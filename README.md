@@ -9,3 +9,6 @@
 * [Entry Seven: Getting Ready for the MVP](entries/entry07.md)
 * Entry Eight:
 * Entry Nine:
+
+[Product](output_free.mp4) <br>
+[Reevised Product]()
