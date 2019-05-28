@@ -25,5 +25,5 @@ synchonized with the music it is played"*, according to ***Wikipedia***.
 2. Take away as much information as you can get out off from Google Searching.
 <br>
 
-[Previous](entry06.md) | [Next](entry07.md) <br>
+[Previous](entry06.md) | [Next](entry08.md) <br>
 [Back to Table of Contents](https://github.com/victoriaf6656/independent-study)

@@ -7,7 +7,7 @@
 * [Entry Five: Usage of EarSketch's Resources](entries/entry05.md)
 * [Entry Six: Useless Information?](entries/entry06.md)
 * [Entry Seven: Getting Ready for the MVP](entries/entry07.md)
-* Entry Eight:
+* [Entry Eight: The Lyrics of a Song](entries/entry08.md)
 * Entry Nine:
 
 [Product](output_free.mp4) <br>
