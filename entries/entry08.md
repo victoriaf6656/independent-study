@@ -6,6 +6,7 @@ Since the Expo, I have been thinking how to make my project better. This past we
     + This: [Current EarSketch](images/project_screenshot.png)
 <br> <img src= "/images/project_screenshot.png"/><br>
     + To That: [Upcoming EarSketch](images/changed_project.png) <br>
+<br> <img src= "/images/changed_project.png"/><br>
 
 I have been listening to music in all of my life, like sad melodies, love stories, and Disney. Research was easy. I knew what kind of lyrics to add, but the arrangement of the lyrics and the song is hard. So I decided to use a modern singing synthesizer to help me.
 
